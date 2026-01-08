@@ -19,13 +19,13 @@ and a clear and meaningful reports.
  ## 📂 Projects
 This GitHub contains my data analysis projects, including:
 - SQL queries  
-- Power BI dashboards  
+- PowerBI dashboards  
 - Excel analysis and reports
    
 ---
 ## 🚀 Currently Improving
 - Advanced SQL queries  
-- Power BI performance optimization  
+- PowerBI performance optimization  
 - Real-world business analytics projects
 
  ---
