@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jamihat. I'm based in Nigeria
 
-I am *Data Analyst* passionate about using data to solve business problem and derive insights that support decision making. I enjoy cleaning data, analyzing trends
+ I'm a **Data Analyst** who is passionate in using data to solve business problem and derive insights that support decision making. I enjoy cleaning data, analyzing trends
 and a clear and meaningful reports.
 
 ---
