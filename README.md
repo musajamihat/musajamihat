@@ -13,7 +13,7 @@ and a clear and meaningful reports.
 ## 🛠️ Tools & Skills
 - **Excel** – Data cleaning, Pivot Tables, formulas, dashboards.
 - **PowerBI** – Data modeling, DAX, interactive reports and visualizations
-- **SQL** – Data extraction, joins, aggregations, subqueries.
+- **SQL** – Data extraction, joins, aggregations, subqueries and CTEs
   
 ---
  ## 📂 Projects
