@@ -18,10 +18,10 @@ and a clear and meaningful reports.
 ---
  ## 📂 Projects
 This GitHub contains my data analysis projects, including:
-- MySQL & PostGreSQL- Queries, joins, aggregations, business insights
+- MySQL and PostGreSQL- Queries, Joins, Aggregations, Business insights
 - PowerBI-   Interactive dashboards, business reporting
 - Excel- Dashboards, pivot tables, data cleaning
-- Data Visualization – Excel & Power BI
+- Data Visualization – Excel and Power BI
    
 ---
 ## 🚀 Currently Improving
